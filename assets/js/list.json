@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Humayun Ahmed",
+        "age": 23,
+        "status": true
+    },
+    {
+        "name": "Shinha",
+        "age": 17,
+        "status": false
+    },
+    {
+        "name": "Munzara Ayat",
+        "age": 20,
+        "status": true
+    },
+    {
+        "name": "Sadia Islam",
+        "age": 21,
+        "status": false
+    },
+    {
+        "name": "Toshan A Ahmed",
+        "age": 23,
+        "status": true
+    },
+    {
+        "name": "Ayaat Khan",
+        "age": 19,
+        "status": true
+    }
+]
